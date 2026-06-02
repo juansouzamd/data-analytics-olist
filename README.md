@@ -6,12 +6,6 @@ O objetivo é transformar dados transacionais em insights sobre faturamento, log
 
 ---
 
-## Notebook
-
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SMQcyc3CTOTPIzyieCguKXSrjrk7s-3U?usp=sharing)
-
----
-
 ## Dataset
 
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — ~99 mil pedidos realizados entre 2016 e 2018, distribuídos em 9 tabelas relacionais.
